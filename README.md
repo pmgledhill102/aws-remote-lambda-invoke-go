@@ -51,7 +51,7 @@ go run .
 13:53:28.270507 Creating Request
 13:53:28.270507 Generating Hash
 13:53:28.270507 Hash: 2a92f9bb852a92f9bb852a92f9bb852a92f9bb852a92f9bb852a92f9bb852a92
-13:53:28.270507 Signature: AWS4-HMAC-SHA256 Credential=ABCDEFABCDEFABCDEFABC/20220227/eu-west-2/lambda/aws4_request, SignedHeaders=content-length;host;x-amz-date, Signatur=2a92f9bb852a92f9bb852a92f9bb852a92f9bb852a92f9bb8a92f9bb852a2323
+13:53:28.270507 Signature: AWS4-HMAC-SHA256 Credential=ABCDEFABCDEFABCDEFABC/20220227/eu-west-2/lambda/aws4_request, SignedHeaders=content-length;host;x-amz-date, Signature=2a92f9bb852a92f9bb852a92f9bb852a92f9bb852a92f9bb8a92f9bb852a2323
 13:53:28.271015 Making web request
 13:53:29.440913 Return Status: 200 OK
 13:53:29.440913 Body: {"response-json-message":"example-value"}
